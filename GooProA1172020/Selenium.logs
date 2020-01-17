@@ -1,0 +1,4 @@
+[main] INFO  GooPro1172020.GooProA1172020.GooApp  - Starting Testcase1 in AppTest
+[main] ERROR GooPro1172020.GooProA1172020.GooApp  - demo
+[main] FATAL GooPro1172020.GooProA1172020.GooApp  - fatal
+[main] INFO  GooPro1172020.GooProA1172020.GooApp  - Executing finally block

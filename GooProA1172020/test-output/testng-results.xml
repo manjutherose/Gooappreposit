@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54" started-at="2020-01-17T12:40:33 EST" finished-at="2020-01-17T12:40:34 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54" started-at="2020-01-17T12:40:33 EST" finished-at="2020-01-17T12:40:34 EST">
+      <class name="GooPro1172020.GooProA1172020.GooApp">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:GooPro1172020.GooProA1172020.GooApp@4e7dc304]" name="testcase1" duration-ms="27" started-at="2020-01-17T12:40:34 EST" finished-at="2020-01-17T12:40:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- GooPro1172020.GooProA1172020.GooApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

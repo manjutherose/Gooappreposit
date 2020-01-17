@@ -1,0 +1,13 @@
+<suite name="Knorrium.info - Wordpress Demo" verbose="10" parallel="true">
+  <parameter name="selenium.host" value="localhost" />
+  <parameter name="selenium.port" value="3737" />
+  <parameter name="selenium.browser" value="*firefox" />
+  <parameter name="selenium.url" value="http://demo.opensourcecms.com/wordpress/" />
+ 
+  <test name="FR1-TestSet" preserve-order="false">
+    <classes>
+      <class name="GooPro1172020.GooProA1172020.GooApp.class"></class>
+    </classes>
+  </test>
+  
+</suite>
