@@ -6,7 +6,7 @@
  
   <test name="FR1-TestSet" preserve-order="false">
     <classes>
-      <class name="GooPro1172020.GooProA1172020.GooApp.class"></class>
+      <class name="GooPro1172020.GooProA1172020.GooApp"></class>
     </classes>
   </test>
   

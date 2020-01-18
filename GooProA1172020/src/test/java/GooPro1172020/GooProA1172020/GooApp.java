@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class GooApp {
 	 static Logger lg = Logger.getLogger(GooPro1172020.GooProA1172020.GooApp.class);
-	 @Test
+	@Test
     public void testcase1()
     {
 
@@ -36,6 +36,5 @@ public class GooApp {
 	    	lg.info("Executing finally block");
 	    }
 	    }
-  public void f() {
-  }
+
 }

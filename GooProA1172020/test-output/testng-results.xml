@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="54" started-at="2020-01-17T12:40:33 EST" finished-at="2020-01-17T12:40:34 EST">
+  <suite name="Knorrium.info - Wordpress Demo" duration-ms="62" started-at="2020-01-17T23:12:28 EST" finished-at="2020-01-17T23:12:28 EST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="54" started-at="2020-01-17T12:40:33 EST" finished-at="2020-01-17T12:40:34 EST">
+    <test name="FR1-TestSet" duration-ms="62" started-at="2020-01-17T23:12:28 EST" finished-at="2020-01-17T23:12:28 EST">
       <class name="GooPro1172020.GooProA1172020.GooApp">
-        <test-method status="PASS" signature="testcase1()[pri:0, instance:GooPro1172020.GooProA1172020.GooApp@4e7dc304]" name="testcase1" duration-ms="27" started-at="2020-01-17T12:40:34 EST" finished-at="2020-01-17T12:40:34 EST">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:GooPro1172020.GooProA1172020.GooApp@6895a785]" name="testcase1" duration-ms="31" started-at="2020-01-17T23:12:28 EST" finished-at="2020-01-17T23:12:28 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
       </class> <!-- GooPro1172020.GooProA1172020.GooApp -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- FR1-TestSet -->
+  </suite> <!-- Knorrium.info - Wordpress Demo -->
 </testng-results>
